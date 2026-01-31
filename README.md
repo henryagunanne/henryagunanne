@@ -24,21 +24,21 @@ Balancing competitive basketball with academics and hands-on projects has shaped
 ## 🛠 Tech Stack & Skills
 
 ### Programming Languages
-- C  
-- Java  
-- PHP  
-- JavaScript  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 ### Web Technologies
-- HTML  
-- CSS  
-- JavaScript  
-- jQuery  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### Databases
-- SQL  
-- MySQL
-- MongoDB
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools & Fundamentals
 - Git & GitHub (version control and collaboration)
@@ -86,8 +86,8 @@ These qualities influence how I learn, build projects, and collaborate with othe
 
 ## 🌐 Connect With Me
 
-- 🔗 **LinkedIn:** *(add your link here)*  
-- 📧 **Email:** *(optional)*  
+- 🔗 **LinkedIn:** *https://www.linkedin.com/in/henry-agunanne-116542209/*  
+- 📧 **Email:** *henryagunanne@gmail.com*  
 
 ---
 
