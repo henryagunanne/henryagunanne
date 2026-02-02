@@ -12,16 +12,16 @@ Balancing competitive basketball with academics and hands-on projects has shaped
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 **Education:** BS Information Technology, De La Salle University – Manila  
-- 🏀 **Role:** Dedicated student-athlete balancing academics and athletics  
-- 💻 **Focus Areas:** Software development, web technologies, and databases  
-- 🌱 **Mindset:** Growth-oriented, disciplined, and eager to learn  
+- **Education:** BS Information Technology, De La Salle University – Manila  
+- **Role:** Dedicated student-athlete balancing academics and athletics  
+- **Focus Areas:** Software development, web technologies, and databases  
+- **Mindset:** Growth-oriented, disciplined, and eager to learn  
 
 ---
 
-## 🛠 Tech Stack & Skills
+## Tech Stack & Skills
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -65,16 +65,16 @@ Balancing competitive basketball with academics and hands-on projects has shaped
 ## 🏀 Student-Athlete Journey
 
 Being a student-athlete has strengthened my:
-- ⏱ **Time management and discipline**  
-- 🤝 **Teamwork and communication**  
-- 💪 **Consistency under pressure**  
-- 📈 **Commitment to long-term growth**  
+- **Time management and discipline**  
+- **Teamwork and communication**  
+- **Consistency under pressure**  
+- **Commitment to long-term growth**  
 
 These qualities influence how I learn, build projects, and collaborate with others.
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 - Academic and personal projects focused on software and web development  
 - Hands-on systems demonstrating CRUD operations and database integration  
